@@ -1,0 +1,13 @@
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\bin\Debug\WpfApplication5Practice.exe.config
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\bin\Debug\WpfApplication5Practice.exe
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\bin\Debug\WpfApplication5Practice.pdb
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\WpfApplication5Practice.csprojResolveAssemblyReference.cache
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\MainWindow.baml
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\MainWindow.g.cs
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\App.g.cs
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\WpfApplication5Practice_MarkupCompile.cache
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\WpfApplication5Practice.g.resources
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\WpfApplication5Practice.Properties.Resources.resources
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\WpfApplication5Practice.csproj.GenerateResource.Cache
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\WpfApplication5Practice.exe
+c:\users\motus_xiao\documents\visual studio 2013\Projects\WpfApplication5Practice\WpfApplication5Practice\obj\Debug\WpfApplication5Practice.pdb
