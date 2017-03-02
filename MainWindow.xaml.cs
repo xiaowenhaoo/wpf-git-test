@@ -48,6 +48,7 @@ namespace WpfApplication5Practice
         private void rotatedButton_PreviewKeyDown(object sender, KeyEventArgs e)
         {
             MessageBox.Show("rotatedButton handler,tunneling down");
+            //
         }
 
         private void Grid_PreviewKeyDown(object sender, KeyEventArgs e)
